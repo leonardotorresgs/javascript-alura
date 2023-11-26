@@ -1,0 +1,17 @@
+ARRAYS
+
+.push
+.pop
+.slice
+.splice
+.concat
+.matriz
+.desestruração de lista
+.for
+.for of
+.for each
+.map
+.filter
+.reduce
+.spread operator
+.set
