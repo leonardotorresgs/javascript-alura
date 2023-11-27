@@ -1,0 +1,11 @@
+JSON
+
+Java-Script Object Notation
+
+.Não temos variáveis
+.Chaves das propriedades têm ""
+.Arrays e objetos aninhados podem existir
+.Proibido ter trailing comma (vírgula no último item de um bloco)
+.Funções não são permitidas
+.Comentários não são permitidos
+.Suporta apenas tipos primitivos (string, number, boolean, null)
