@@ -1,0 +1,2 @@
+Firefox (SpiderMonkey): Merge Sort
+Chrome (V8): Quick Sort ou Insertion Sort
