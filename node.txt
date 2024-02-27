@@ -1,0 +1,5 @@
+criar um arquivo package.json utilizando o comando npm init
+
+as instalações locais de libs externas utilizamos o comando npm install <nome do pacote>
+
+instalação global de pacotes, utilizamos os comandos npm install -g <nome do pacote>

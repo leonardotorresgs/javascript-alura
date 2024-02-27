@@ -1,0 +1,18 @@
+Código síncrono
+
+- execução em sequência;
+- uma instrução após a outra.
+
+Código assíncrono
+
+- não espera a finalização de uma tarefa para iniciar a seguinte;
+- aguarda a finalização da tarefa para retornar o resultado.
+ 
+
+
+
+
+
+
+
+
